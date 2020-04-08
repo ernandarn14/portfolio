@@ -1,0 +1,70 @@
+.navbar-brand{
+    font-size: 30px;
+    font-family:"Ink Free", cursive, sans-serif;
+    color: #99ccff;
+}
+.nav-link{
+    color: white;
+    font-size: 18px;
+}
+.navbar-brand:hover{
+    color: lightblue;
+}
+.header-section{ 
+    padding-top: 200px; 
+    height: 620px;
+    background-image: url(https://p4.wallpaperbetter.com/wallpaper/384/984/846/background-business-computer-connection-wallpaper-preview.jpg);
+    background-size: cover; 
+    background-repeat: no-repeat;
+    color: white;
+    font-family:"MV Boli", cursive, sans-serif;
+}
+#main, h2, h4{
+    font-size: 50px;
+}
+.profile-img{
+    height: 80px;
+    width: 100px;
+}
+.heading{
+    padding: 60px;
+}
+.heading-text{
+    font-size: 50px;
+    font-family:"Ink Free", cursive, sans-serif;
+    font-weight: bold;
+}
+.img1{
+    height: 220px;
+    width: 350px;
+}
+section{
+    padding: 100px 0;
+}
+.contact{ 
+    border-radius: 5px; 
+    padding: 30px 40px 30px; 
+    font-size: 20px;
+}
+.sosmed{
+    font-size: 20px;
+    line-height: 50px;
+    display: block;
+    width: 50px;
+    height: 50px;
+    transition: all 0.3s;
+    color: white;
+    border-radius: 100%;
+    outline: none;
+    background-color: black;
+    margin-left: 150px;
+}
+.sosmed:hover{
+    background-color: lightskyblue;
+}
+.nav-item:focus{
+    background-color: lightskyblue;
+}
+
+
+
